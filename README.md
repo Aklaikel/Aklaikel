@@ -14,4 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aklaikel) ![aklaikel's 42 stats](https://badge42.herokuapp.com/api/stats/aklaikel?darkmode=true&cursus=C%20Piscine) ![aklaikel's 42 stats](https://badge42.herokuapp.com/api/stats/aklaikel?darkmode=true&cursus=42cursus)
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aklaikel) 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+<!-- <a href="https://twitter.com/AbdelhadiSabani">
+  <img align="left" alt="Abdelhadi Sabani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abdelhadi-sabani-1bb5171a7/">
+  <img align="left" alt="Abdelhadi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/abdelhadisabani">
+  <img align="left" alt="Abdelhadi's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/abdelhadi_sabani/">
+  <img align="left" alt="Abdelhadi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/abdelhadi_sabani">
+  <img align="left" alt="Abdelhadi's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a> -->
+<a href="https:/www.facebook.com/anas.klaikel">
+  <img align="left" alt="Anass klaikel | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+
+<br />
+<br />
+
+Hi, I'm [Anass klaikel](https://github.com/Aklaikel), a self-taught Web Developer 🚀 from Morocco 🇲🇦.
+
+<br />
+
+<a href="https://github-readme-stats.vercel.app/api?username=Aklaikel&count_private=true&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aklaikel&count_private=true&show_icons=true" alt="Klaikel's github stats" />
+</a>
