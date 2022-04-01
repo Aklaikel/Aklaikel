@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aklaikel) 
+[![aklaikel's 42 stats](https://badge.mediaplus.ma/levi/aklaikel)](https://github.com/oakoudad/badge42)
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
