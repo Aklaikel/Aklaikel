@@ -44,7 +44,3 @@ Here are some ideas to get you started:
 Hi, I'm [Anass klaikel](https://github.com/Aklaikel), a self-taught Web Developer 🚀 from Morocco 🇲🇦.
 
 <br />
-
-<a href="https://github-readme-stats.vercel.app/api?username=Aklaikel&count_private=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aklaikel&count_private=true&show_icons=true" alt="Klaikel's github stats" />
-</a>
